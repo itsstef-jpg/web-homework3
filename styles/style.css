@@ -7,8 +7,8 @@ h1 {
     display: flex;
     justify-content: center;
     text-align: center;
-    font-family: 'Trattatello', fantasy;
-    /* font-family: 'Luminari', fantasy; */
+    /* font-family: 'Trattatello', fantasy; */
+    font-family: 'Luminari', fantasy;
 
 }
 
@@ -100,6 +100,7 @@ p {
 button {
     margin-left: 1%;
     border-radius: 5px;
+    border-color: none;
     box-shadow: 0px 2px 0px 0px rgb(174, 174, 174);
     transition: all .05s;
 }
